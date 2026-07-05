@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="YOUR_COVER_IMAGE_URL_HERE" alt="Recon-Toolkit Cover"/>
+  <img src="[YOUR_COVER_IMAGE_URL_HERE](https://github.com/Ammar7543/Recon-Toolkit/blob/main/assets/Recon-toolkitV3.png)" alt="Recon-Toolkit Cover"/>
 </p>
 
 <p align="center">
