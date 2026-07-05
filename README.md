@@ -413,40 +413,23 @@ recon_example.com/
 
 ---
 
-# 👨‍💻 Developer
+## Author
 
-## Muhammad Ammar
+👤 **Muhammad Ammar**
 
-Security Researcher
+* Twitter: [@AMXPRO](https://twitter.com/AMXPRO)
+* GitHub: [@Ammar7543](https://github.com/Ammar7543)
+* LinkedIn: [Muhammad Ammar](https://www.linkedin.com/in/ammarxproduction/)
 
-Bug Bounty Hunter
+## Show your support
 
-Red Team Enthusiast
+Give a star if this project helped you.
 
----
+<a href="https://www.patreon.com/AMXPRO">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
-# ⭐ Support
+## License
 
-If this project helped you,
-
-please consider giving it a ⭐ on GitHub.
-
-It helps the project grow.
-
----
-
-# ⚠ Disclaimer
-
-This toolkit is intended **only for authorized security assessments**.
-
-Always obtain **written permission** before testing any target.
-
-The developer is **not responsible** for misuse or unauthorized activities.
-
----
-
-# 📜 License
-
-Copyright © 2026 Muhammad Ammar
-
-Licensed under **AMXPRO License**
+Copyright © 2026 [Muhammad Ammar](https://github.com/Ammar7543).<br />
+This project is [AMXPRO](AMXPRO) licensed.
