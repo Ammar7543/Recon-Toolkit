@@ -1,7 +1,7 @@
 <h1 align="center">RECON-TOOLKIT V3</h1>
 
 <p align="center">
-  <b>⚡ Automated Reconnaissance & Pentesting Framework</b><br>
+  <b> Automated Reconnaissance & Pentesting-Bug Hunting Framework</b><br>
   <i>Fast • Modular • Resumable • Parallel • Security Research Focused</i>
 </p>
 
@@ -19,7 +19,7 @@
 
 ---
 
-# ⚡ Overview
+#  Overview
 
 **Recon-Toolkit V3** is an advanced **Bash-based Reconnaissance & Pentesting Framework** built for Security Researchers, Penetration Testers, Red Teamers and Bug Bounty Hunters.
 
@@ -29,7 +29,7 @@ Instead of running dozens of individual tools manually, Recon-Toolkit combines t
 
 ---
 
-# 🚀 Features
+#  Features
 
 ## Core Recon
 
@@ -56,9 +56,9 @@ Instead of running dozens of individual tools manually, Recon-Toolkit combines t
 
 ---
 
-# 🔥 Exclusive Features
+#  Exclusive Features
 
-### ⚡ Parallel Slotting
+###  Parallel Slotting
 
 Uses parallel workers to dramatically speed up:
 
@@ -70,7 +70,7 @@ Uses parallel workers to dramatically speed up:
 
 ---
 
-### 🔄 Resume Capability
+###  Resume Capability
 
 If your PC or Laptop shuts down unexpectedly...
 
@@ -80,7 +80,7 @@ Recon-Toolkit automatically resumes from the last completed phase without restar
 
 ---
 
-### 🎯 Custom Scan Mode
+###  Custom Scan Mode
 
 Run only the modules you need.
 
@@ -95,7 +95,7 @@ No unnecessary waiting.
 
 ---
 
-### 🌐 Out-of-Scope Filtering
+###  Out-of-Scope Filtering
 
 Exclude:
 
@@ -115,7 +115,7 @@ test.example.com
 
 ---
 
-### 🛡 Smart Firewall Handling
+###  Smart Firewall Handling
 
 Designed to work efficiently against environments protected by:
 
@@ -127,7 +127,7 @@ using smart request handling and optimized workflows.
 
 ---
 
-### 📂 Automatic Organization
+###  Automatic Organization
 
 Every scan generates:
 
@@ -141,7 +141,7 @@ No messy terminal output.
 
 ---
 
-### ⚡ Massive Scope Ready
+###  Massive Scope Ready
 
 Large targets can contain:
 
@@ -155,17 +155,18 @@ Recon-Toolkit is designed to handle enterprise-scale engagements.
 
 ---
 
-### 💾 Recommended Hardware
+###  Recommended Hardware
 
 For maximum performance:
 
 - **16GB RAM Recommended**
 - Multi-Core CPU
 - Kali Linux (Recommended)
+- Good Internet Connection (Recommended)
 
 ---
 
-# 🛠 Included Tools
+# Included Tools
 
 - subfinder
 - assetfinder
@@ -197,7 +198,7 @@ and many more...
 
 ---
 
-# 📥 Installation
+#  Installation
 
 ## Clone Repository
 
@@ -241,7 +242,7 @@ The toolkit will automatically download and configure every required dependency.
 
 ---
 
-# 🚀 Running the Toolkit
+#  Running the Toolkit
 
 Start the framework
 
@@ -263,7 +264,7 @@ You'll see
 
 ---
 
-# 📖 Usage Guide
+#  Usage Guide
 
 ## Step 1
 
@@ -392,7 +393,7 @@ Sit back and let Recon-Toolkit perform:
 
 ---
 
-# 📁 Output
+#  Output
 
 Every scan is automatically organized.
 
